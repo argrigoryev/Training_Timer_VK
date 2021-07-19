@@ -1,0 +1,33 @@
+.Slider {
+    margin: 5pt;
+}
+
+.Header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.InfoValue {
+    margin-left: 10pt;
+}
+
+.BtnContainer {
+    display: flex;
+	align-items: center;
+    justify-content: center;
+    margin: 10pt;
+}
+
+.PauseBtn, .PlayBtn {
+    width: 64pt;
+    height: 64pt;
+    margin: 15pt;
+    border-radius: 50%;
+}
